@@ -1,1 +1,1 @@
-web: python MUSHI.py
+web: python script.py
