@@ -16,7 +16,7 @@ app = Flask(__name__)
   <style>
     /* CSS for styling elements */
     label { color: white; }
-    file { height: 30px; }
+    file { height: 15px; }
     body {
       background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
       background-size: cover;
@@ -126,3 +126,4 @@ app = Flask(__name__)
   </script>
 </body>
 </html>
+
